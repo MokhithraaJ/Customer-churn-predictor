@@ -1,1 +1,2 @@
 # Customer-churn-predictor
+This repository houses the code, data, and documentation associated with my internship project on predicting customer churn for a subscription-based service. The project aimed to develop a robust model capable of identifying customers at risk of canceling their subscription. Utilizing historical customer data encompassing usage behavior, demographics, and other relevant features, the project explored and implemented various machine learning algorithms, including Logistic Regression, Random Forests, and Gradient Boosting. #CodSOFT @CodSoft
